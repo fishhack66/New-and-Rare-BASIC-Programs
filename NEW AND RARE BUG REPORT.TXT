@@ -1,0 +1,5 @@
+11/9/26: @Dave Hassler I fixed a (very minor) bug/inconsistency in Borg Attack Deluxe. Added 1472 IF G=0 AND H=1 THEN 1370 to prevent placing crosshairs on base from beneath (to be consistent with existing code that blocks coming from the right). (Micah Cowan)
+
+11/13/26: manchicken — 7:43 AM
+@Dave Hassler For 2048, on line 1430 it's missing :MV=1 at the end.  (manchicken) [this was a typesetting error - fixed]
+
